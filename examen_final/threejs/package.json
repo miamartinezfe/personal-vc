@@ -1,0 +1,11 @@
+{
+  "name": "threejs-escena-basica",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "three": "0.154.0"
+  }
+}
